@@ -1,0 +1,160 @@
+.anmoveDown{
+	-webkit-animation:anmoveDown 0.8s 0s ease both ;
+	-moz-animation:anmoveDown 0.8s 0s ease both ;
+	-ms-animation:anmoveDown 0.8s 0s ease both ;
+	-o-animation:anmoveDown 0.8s 0s ease both ;
+	animation:anmoveDown 0.8s 0s ease both ;
+}
+@keyframes anmoveDown{         
+	0%{
+		transform: translate3d(0,0%,0);
+	}
+	100%{
+		transform: translate3d(0,100%,0);
+	}
+}
+.anmoveUp{
+	-webkit-animation:anmoveUp 0.8s 0s ease both ;
+	-moz-animation:anmoveUp 0.8s 0s ease both ;
+	-ms-animation:anmoveUp 0.8s 0s ease both ;
+	-o-animation:anmoveUp 0.8s 0s ease both ;
+	animation:anmoveUp 0.8s 0s ease both ;
+}
+@keyframes anmoveUp{
+	0%{
+		transform: translate3d(0,0%,0);
+	}
+	100%{
+		transform: translate3d(0,-100%,0);
+	}
+}
+
+
+.anitod{
+	-webkit-animation:anitod 0.8s 0s ease both ;
+	-moz-animation:anitod 0.8s 0s ease both ;
+	-ms-animation:anitod 0.8s 0s ease both ;
+	-o-animation:anitod 0.8s 0s ease both ;
+	animation:anitod 0.8s 0s ease both ;
+}
+@keyframes anitod{   				     
+	0%{
+		transform: translate3d(0,0%,0);
+	}
+	100%{
+		transform: translate3d(0,100%,0);
+	}
+}
+.anitou{
+	-webkit-animation:anitou 0.8s 0s ease both ;
+	-moz-animation:anitou 0.8s 0s ease both ;
+	-ms-animation:anitou 0.8s 0s ease both ;
+	-o-animation:anitou 0.8s 0s ease both ;
+	animation:anitou 0.8s 0s ease both ;
+}
+@keyframes anitou{
+	0%{
+		transform: translate3d(0,0%,0);
+	}
+	100%{
+		transform: translate3d(0,-100%,0);
+	}
+}
+.anotid{
+	-webkit-animation:anotid 0.8s 0s ease both ;
+	-moz-animation:anotid 0.8s 0s ease both ;
+	-ms-animation:anotid 0.8s 0s ease both ;
+	-o-animation:anotid 0.8s 0s ease both ;
+	animation:anotid 0.8s 0s ease both ;
+}
+@keyframes anotid{
+	0%{
+		transform: translate3d(0,-100%,0);
+	}
+	100%{
+		transform: translate3d(0,0%,0);
+	}
+}
+.anotiu{
+	-webkit-animation:anotiu 0.8s 0s ease both ;
+	-moz-animation:anotiu 0.8s 0s ease both ;
+	-ms-animation:anotiu 0.8s 0s ease both ;
+	-o-animation:anotiu 0.8s 0s ease both ;
+	animation:anotiu 0.8s 0s ease both ;
+}
+@keyframes anotiu{
+	0%{
+		transform: translate3d(0,100%,0);
+	}
+	100%{
+		transform: translate3d(0,0%,0);
+	}
+}
+
+
+
+
+.anmoveRight{
+	-webkit-animation:anmoveRight 0.8s 0s ease both ;
+	-moz-animation:anmoveRight 0.8s 0s ease both ;
+	-ms-animation:anmoveRight 0.8s 0s ease both ;
+	-o-animation:anmoveRight 0.8s 0s ease both ;
+	animation:anmoveRight 0.8s 0s ease both ;
+}
+@keyframes anmoveRight{        /*横向滑动*/ 
+	0%{
+		transform: translate3d(0%,0,0);
+	}
+	100%{
+		transform: translate3d(100%,0,0);
+	}
+}
+.anmoveLeft{
+	-webkit-animation:anmoveLeft 0.8s 0s ease both ;
+	-moz-animation:anmoveLeft 0.8s 0s ease both ;
+	-ms-animation:anmoveLeft 0.8s 0s ease both ;
+	-o-animation:anmoveLeft 0.8s 0s ease both ;
+	animation:anmoveLeft 0.8s 0s ease both ;
+}
+@keyframes anmoveLeft{
+	0%{
+		transform: translate3d(100%,0,0);
+	}
+	100%{
+		transform: translate3d(0%,0,0);
+	}
+}
+
+.anOpa{
+	-webkit-animation:anOpa 0.8s 0s ease both ;
+	-moz-animation:anOpa 0.8s 0s ease both ;
+	-ms-animation:anOpa 0.8s 0s ease both ;
+	-o-animation:anOpa 0.8s 0s ease both ;
+	animation:anOpa 0.8s 0s ease both ;
+}
+@keyframes anOpa{				
+	0%{
+		opacity: 1;
+	}
+	100%{
+		opacity: 0;
+	}
+}
+.anCenScale{
+	-webkit-animation:anCenScale 0.8s 0s ease both ;
+	-moz-animation:anCenScale 0.8s 0s ease both ;
+	-ms-animation:anCenScale 0.8s 0s ease both ;
+	-o-animation:anCenScale 0.8s 0s ease both ;
+	animation:anCenScale 0.8s 0s ease both ;
+}
+@keyframes anCenScale{				
+	0%{
+		transform: scale(0.3);
+	}
+	100%{
+		transform: scale(1);
+	}
+}
+
+
+
